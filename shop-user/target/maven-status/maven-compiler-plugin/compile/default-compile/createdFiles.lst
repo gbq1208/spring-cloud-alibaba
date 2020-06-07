@@ -1,0 +1,5 @@
+com\renren\UserApplication.class
+com\renren\controller\UserController.class
+com\renren\service\impl\UserServiceImpl.class
+com\renren\dao\UserDao.class
+com\renren\service\UserService.class

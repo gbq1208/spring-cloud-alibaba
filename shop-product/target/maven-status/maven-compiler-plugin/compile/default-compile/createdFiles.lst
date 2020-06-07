@@ -1,0 +1,5 @@
+com\renren\controller\ProductController.class
+com\renren\dao\ProductDao.class
+com\renren\service\ProductService.class
+com\renren\service\impl\ProductServiceImpl.class
+com\renren\ProductApplication.class
